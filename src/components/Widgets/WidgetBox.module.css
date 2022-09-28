@@ -1,0 +1,23 @@
+.grid_row__start0 {grid-row-start: 0;}
+.grid_row__start1 {grid-row-start: 1;}
+.grid_row__start2 {grid-row-start: 2;}
+.grid_row__start3 {grid-row-start: 3;}
+.grid_row__start4 {grid-row-start: 4;}
+
+.grid_column__start0 {grid-column-start: 0;}
+.grid_column__start1 {grid-column-start: 1;}
+.grid_column__start2 {grid-column-start: 2;}
+.grid_column__start3 {grid-column-start: 3;}
+.grid_column__start4 {grid-column-start: 4;}
+
+.grid_row__end0 {grid-row-end: 1;}
+.grid_row__end1 {grid-row-end: 2;}
+.grid_row__end2 {grid-row-end: 3;}
+.grid_row__end3 {grid-row-end: 4;}
+.grid_row__end4 {grid-row-end: 5;}
+
+.grid_column__end0 {grid-row-end: 1;}
+.grid_column__end1 {grid-row-end: 2;}
+.grid_column__end2 {grid-row-end: 3;}
+.grid_column__end3 {grid-row-end: 4;}
+.grid_column__end4 {grid-row-end: 5;}
